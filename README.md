@@ -1,7 +1,8 @@
 <h3 align="center">Demo</h3>
-<br/>
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/73810565/110661504-a4137100-81ea-11eb-91ab-ff6ba7fad299.gif)
-<br/>
+<div>
+<img src="https://user-images.githubusercontent.com/73810565/110661504-a4137100-81ea-11eb-91ab-ff6ba7fad299.gif"/>
+</div>        
+
 
 Official Documentation By Sole Maintainer-[Muditxofficial](https://github.com/Muditxofficial).
 ----------------------------- ##DEPENDENCIES ----------------------------------------------------
